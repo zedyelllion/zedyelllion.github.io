@@ -41,3 +41,4 @@ Empirically, MAGRPO outperforms single-model and prompt-only multi-agent baselin
 - Gained experience bridging **systems research** with **algorithmic design**
 
 ---
+You may find more and smaller-scale projects or in-class notes I took at https://github.com/zedyelllion?tab=repositories.
