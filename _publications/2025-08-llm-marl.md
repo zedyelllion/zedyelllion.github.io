@@ -1,0 +1,12 @@
+---
+title: "LLM Collaboration with Multi-Agent Reinforcement Learning"
+collection: publications
+permalink: /publication/llm-collaboration-marl
+excerpt: "Large language models as high-level coordination and communication modules for multi-agent reinforcement learning under partial observability."
+date: 2025-08-03
+venue: "Poster, AAAI 2026"
+citation: "Zeyu Liang. Poster at AAAI 2026. LLM Collaboration with Multi-Agent Reinforcement Learning."
+---
+
+This work studies how large language models can serve as high-level coordination modules for multi-agent reinforcement learning systems.
+
