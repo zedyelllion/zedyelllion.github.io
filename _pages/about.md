@@ -20,6 +20,6 @@ My research interests broadly include:
 
 ### Hobbies
 Outside of research, I enjoy:
--  **Go (围棋)**  I am a AGA 6.0 dan player.
+-  **Go (围棋)**  I am an AGA 6.0 dan player.
 - 🏸 **Badminton（羽毛球）** I have been playing badminton since 2021 and consider myself between strong intermediate and early advanced levels.
 
